@@ -1,4 +1,4 @@
-# My-Mechine-Learning-Notebooks
+# My-Machine-Learning-Notebooks
 
 作者：黄攀
 
